@@ -1,0 +1,4 @@
+Paxos
+FLP
+CAP
+BASE
